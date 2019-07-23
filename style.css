@@ -1,0 +1,57 @@
+/* CSS files add styling rules to your content */
+
+body {
+  font-family: "Benton Sans", "Helvetica Neue", helvetica, arial, sans-serif;
+  margin: 2em;
+}
+
+h1 {
+
+  font-style: italic;
+  color: Black;
+  font-family: "Courier New", Times, serif;
+  padding: 90px;
+  text-align: center;
+  outline-style: dashed;
+  font-size: 72px;
+  background: -webkit-linear-gradient(#800080, 	#4169E1);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+
+}
+
+h3{
+    padding: 50px;
+    text-align: center;
+    font-size: 25px;
+    font-family: "Courier New", Times, serif;
+
+    
+}
+
+p {
+  font-size: 20px;
+  text-align:center;
+  font-family: "Courier New", Times, serif;
+
+}
+
+img {
+  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+}
+
+ul{
+  font-size: 20px;
+  text-align:center;
+  font-family: "Courier New", Times, serif;
+}
+
+a { 
+  text-align:center;
+  font-size: 20px;
+  font-family: "Courier New", Times, serif;
+}
